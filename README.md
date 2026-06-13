@@ -1,1 +1,1 @@
-# web-dev-practice
+# web-dev-practice/day-1
